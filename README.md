@@ -1,4 +1,4 @@
-# Load Balancer using Terraform
+# Classic Load Balancer using Terraform
 
 Create an Instance
 Create a directory for isolating terraform files.
